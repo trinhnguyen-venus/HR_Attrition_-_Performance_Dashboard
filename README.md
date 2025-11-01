@@ -25,7 +25,7 @@ It highlights the end-to-end analytical process — from data cleaning, modeling
 - Actions: import into Power Query, detect and fix column types, remove unneeded columns, handle missing values, normalize formats.
 - Result: a cleaned data query ready to load into an Excel Table.
 
-![Step 1 - Import Data](images/Step1_Import_Data.png)
+![Step 1 - Import Data](Images/Step 1 – Import data via Power Query.png)
 
 
 ### Step 2 — Data Cleaning & Transformation
@@ -35,8 +35,8 @@ It highlights the end-to-end analytical process — from data cleaning, modeling
   - Remove duplicates and validate key columns.
 - Result: clean dataset and a Data Validation table verifying integrity.
 
-![Step 2 - Cleaning Data](images/Step2_Cleaning_Data.png)
-![Data Validation Table](images/Data_Validation_Table.png)
+![Step 2 - Cleaning Data](images/Step 2 - Cleaning Data.png)
+![Data Validation Table](Images/Data_Validation_Table.png)
 
 
 ### Step 3 — Load to Excel Table (`HRData`)
@@ -44,8 +44,8 @@ It highlights the end-to-end analytical process — from data cleaning, modeling
 - Create `KPI_Table` documenting KPI definitions, calculation formulas, and targets.
 - This table acts as the single source of truth for downstream analysis.
 
-![Step 3 - Load HRData](images/Step3_Load_HRData.png)
-![KPI Table](images/KPI_Table.png)
+![Step 3 - Load HRData](Images/Step 3 – Load cleaned data into Excel Table (HRData).png)
+![KPI Table](Images/KPI Table.png)
 
 
 ### Step 4 — Data Model & Measures (Power Pivot / DAX)
@@ -86,7 +86,7 @@ Turnover Rate by Department
 
 Gender Diversity Overview
 
-![Dashboard](images/Dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ---
 
