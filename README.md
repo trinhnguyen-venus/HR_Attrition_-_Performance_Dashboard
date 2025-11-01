@@ -62,7 +62,8 @@ It highlights the end-to-end analytical process — from data cleaning, modeling
   AvgJobSatisfaction = AVERAGE(HRData[JobSatisfaction])
   ```
 
-###Step 5 — Pivot Tables & Visuals
+
+### Step 5 — Pivot Tables & Visuals
 
 Built PivotTables by key HR dimensions:
 
