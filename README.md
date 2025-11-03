@@ -6,7 +6,7 @@ Power Pivot (DAX):	Measure creation, KPI computation, and relationships
 Pivot Table / Pivot Chart:	Multi-dimensional HR analysis
 Dashboard Design:	Layout, formatting, and storytelling with visuals
 
----
+
 
 ## Project Overview
 This project demonstrates advanced Excel analytics skills through the creation of a fully interactive **HR Analytics Dashboard**.  
@@ -16,7 +16,7 @@ It highlights the end-to-end analytical process — from data cleaning, modeling
 - **Pivot Table & Pivot Chart** for analysis
 - **Dashboard Design** for professional visualization and insights delivery
 
----
+
 
 ## ⚙️ Project Workflow
 
@@ -90,7 +90,7 @@ Gender Diversity
 
 ![Dashboard](Images/Dashboard.png)
 
----
+
 
 ## 💡 Key Insights (summary)
 
