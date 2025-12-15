@@ -1,14 +1,22 @@
-# 📊 HR Performance Dashboard
+# 📊 HR Attrition & Performance Analysis Dashboard
 
 ## 1. Project Context
-This project simulates an HR analytics assignment for an internal HR Manager at a mid-sized company (sample company).
+This project simulates a real-world HR analytics case for an HR Manager, focusing on employee attrition, performance, and career progression.
 
-The objective is to understand employee attrition drivers, performance patterns, and promotion dynamics, and translate those findings into actionable HR recommendations.
+The objective is to help HR leaders:
+
+- Understand where attrition is happening
+- Identify patterns across workload, satisfaction, income, and experience
+- Support data-informed people decisions, not just reporting metrics
 
 The focus is on business-relevant questions, analytical reasoning, and decision support.
 
+<<<<<<< HEAD
 ## 2. Business Questions
 The dashboard is designed to answer the following questions an HR Manager would typically ask:
+=======
+
+>>>>>>> a9a6ffb54e90f867e02f0e34a4aea8e8cb33c1c
 
 1. Which departments and job roles have the highest attrition risk?
 2. What are the key drivers of employee turnover?
@@ -98,12 +106,6 @@ Based on the analysis:
 - HR Managers
 - HR Business Partners
 - People & Workforce Analytics Teams
-
-### Project Deliverable
-
-- Interactive Excel dashboard designed for management-level decision making
-- Focus on insight generation and recommendations.
-
 
 ## Author
 **Trinh Nguyen**  
