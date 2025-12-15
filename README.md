@@ -11,7 +11,6 @@ The objective is to help HR leaders:
 
 The focus is on business-relevant questions, analytical reasoning, and decision support.
 
-<<<<<<< HEAD
 ## 2. Business Questions
 The dashboard is designed to answer the following questions an HR Manager would typically ask:
 
@@ -77,7 +76,7 @@ The analysis follows a driver-based framework, not descriptive reporting:
 ![Insert image](Images/Avg_Monthly_Income_by_Job_Role.png)
 ![Insert image](Images/Gender_Income_&_Performance_Comparison.png)
 
-### 5.4 Promotion rate shows a clear downward trend with age
+### 5.5 Promotion rate shows a clear downward trend with age
 
 - Promotion rate decreases gradually across age groups:
   - Under 30: highest promotion rate
