@@ -14,9 +14,6 @@ The focus is on business-relevant questions, analytical reasoning, and decision 
 <<<<<<< HEAD
 ## 2. Business Questions
 The dashboard is designed to answer the following questions an HR Manager would typically ask:
-=======
-
->>>>>>> a9a6ffb54e90f867e02f0e34a4aea8e8cb33c1c
 
 1. Which departments and job roles have the highest attrition risk?
 2. What are the key drivers of employee turnover?
